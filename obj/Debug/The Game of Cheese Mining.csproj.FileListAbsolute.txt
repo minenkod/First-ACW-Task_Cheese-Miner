@@ -1,0 +1,95 @@
+C:\Users\daniel\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+C:\Users\daniel\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+C:\Users\daniel\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+C:\Users\daniel\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+C:\Users\daniel\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+C:\Users\daniel\Desktop\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+C:\Users\daniel\Desktop\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+C:\Users\daniel\Desktop\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+C:\Users\daniel\Desktop\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+C:\Users\daniel\Desktop\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+C:\Users\daniel\Desktop\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+D:\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+D:\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+D:\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+D:\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+D:\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+D:\Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+D:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+D:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+D:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+D:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+D:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+D:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+E:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+E:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+E:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+E:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+E:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+E:\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+C:\Users\daniel\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+C:\Users\daniel\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+C:\Users\daniel\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+C:\Users\daniel\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+C:\Users\daniel\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+C:\Users\Danyil\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+C:\Users\Danyil\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+C:\Users\Danyil\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+C:\Users\Danyil\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+C:\Users\Danyil\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+C:\Users\Danyil\Desktop\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Desktop\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+C:\Users\daniel\Desktop\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+C:\Users\daniel\Desktop\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+C:\Users\daniel\Desktop\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+C:\Users\daniel\Desktop\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+C:\Users\daniel\Desktop\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+D:\Cheese Mining\v3\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+D:\Cheese Mining\v3\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+D:\Cheese Mining\v3\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+D:\Cheese Mining\v3\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+D:\Cheese Mining\v3\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+D:\Cheese Mining\v3\Cheese Mining\29th\Cheese Mining\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+\\data.adir.hull.ac.uk\home5\508\508120\Desktop\25.11.2015\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+D:\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+D:\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+D:\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+D:\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+D:\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+D:\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+D:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+D:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+D:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+D:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+D:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+D:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.pdb
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csprojResolveAssemblyReference.cache
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\obj\Debug\The_Game_of_Cheese_Mining.Properties.Resources.resources
+E:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.csproj.GenerateResource.Cache
+D:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\bin\Debug\The Game of Cheese Mining.exe.config
+D:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.exe
+D:\Uncles swimming pool party\Updated Cheese Mining\The Game of Cheese Mining - Installer\The Game of Cheese Mining\obj\Debug\The Game of Cheese Mining.pdb
